@@ -55,4 +55,4 @@ release_checks_7:
   - debian-10-x86_64
   - redhat-7-x86_64
   - redhat-8-x86_64
-  - ubuntu-18.04-x86_64
+  - ubuntu-1804-x86_64
